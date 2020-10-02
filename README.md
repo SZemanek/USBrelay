@@ -4,8 +4,8 @@ Python library and command line to control "SainSmart" 16 Channel USB Serial Rel
 This python library / command line utility is for controlling:
 SainSmart brand 16 Channel USB Serial Relay Board  
 SKU# 101-70-208  ASIN: B0793MZH2B
-Wiki: http://wiki.sainsmart.com/index.php/101-70-208
-Vendor Documentation: http://s3.amazonaws.com/s3.image.smart/download/101-70-208/101-70-208.zip
+Wiki: http://wiki.sainsmart.com/index.php/101-70-208 
+Vendor Documentation: http://s3.amazonaws.com/s3.image.smart/download/101-70-208/101-70-208.zip 
 
 The vendor documentation is very poor.
 This board usually does not have a model number on it.  It is a white PCB, labeled "SainSmart:  Power to the makers" and islabeled "Serial Relay".

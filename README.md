@@ -16,7 +16,7 @@ This board usually does not have a model number on it.  It is a white PCB, label
 
 
 
-There is a jumper on the board "USB/COM" which controls where the power to the board comes from. (USB or "common" DC input) you might want to run this board off a separate DC power source if turning off the relays unexpectedly would cause a problem.  
+There is a jumper on the board "USB/COM" which controls where the power to the board comes from. (USB or "common" DC input) you might want to run this board off a separate DC power source if turning off the relays unexpectedly would cause a problem, because the relay board does not save state when it loses power. 
 
 
 WARNING: This board sometimes will miss a command and the relay won't engage properly.  As a lazy workaround, in the command line version, I send each command twice.  

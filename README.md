@@ -5,7 +5,8 @@ This python library / command line utility is for controlling SainSmart brand 16
 
 This device shows up as a USB->Serial device (at least on Linux).   On most linux distro's it will show up as '/dev/ttyUSB0' by default.
 
-Command line example: 
+Command line example:
+
 ./pyUSBrelay.py ch01on ch02off ch03on 
 
 You might need to adjust permissions on /dev/ttyUSB0 or run the script w/ sudo to make this work properly. 

@@ -1,7 +1,8 @@
 # USBrelay
 Python library and command line to control "SainSmart" 16 Channel USB Serial Relay Board
 
-This python library / command line utility is for controlling SainSmart brand 16 Channel USB Serial Relay Board  SKU# 101-70-208  ASIN: B0793MZH2B
+This python library / command line utility is for controlling SainSmart brand 16 Channel USB Serial Relay Board  
+SKU# 101-70-208  ASIN: B0793MZH2B
 
 This device shows up as a USB->Serial device (at least on Linux).   On most linux distro's it will show up as '/dev/ttyUSB0' by default.
 

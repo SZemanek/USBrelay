@@ -1,5 +1,5 @@
 #!  /usr/bin/python3
-import serial
+import serial     # pip install pyserial 
 
 relaycommands = {"ch01on": "3A 46 45 30 35 30 30 30 30 46 46 30 30 46 45 0D 0A",
 			 "ch01off": "3A 46 45 30 35 30 30 30 30 30 30 30 30 46 44 0D 0A",
